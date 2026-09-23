@@ -1,7 +1,7 @@
 
 # Customer Behavior Analysis
 
-A data analytics project focused on analyzing customer purchasing behavior, spending patterns, subscription trends, product performance, and revenue insights using Python, PostgreSQL, SQL, and Power BI.
+A data analytics project focused on analyzing customer purchasing behavior, spending patterns, subscription trends, product performance, and revenue insights using Python, PostgreSQL, and Power BI.
 
 ## Project Overview
 
